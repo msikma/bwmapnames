@@ -1,0 +1,769 @@
+{
+  "lastUpdated": "2024-12-16T11:35:00.079Z",
+  "maps": [
+    {
+      "eng": "76",
+      "kor": "76"
+    },
+    {
+      "eng": "815",
+      "kor": "815"
+    },
+    {
+      "eng": "ASL 2.0",
+      "kor": "ASL 2.0"
+    },
+    {
+      "eng": "Alchemist",
+      "kor": "알케미스트"
+    },
+    {
+      "eng": "Allegro",
+      "kor": "알레그로"
+    },
+    {
+      "eng": "Alternative",
+      "kor": "얼터너티브"
+    },
+    {
+      "eng": "Andromeda",
+      "kor": "안드로메다"
+    },
+    {
+      "eng": "Another Day",
+      "kor": "어나더데이"
+    },
+    {
+      "eng": "Apocalypse",
+      "kor": "아포칼립스"
+    },
+    {
+      "eng": "Arcadia",
+      "kor": "아카디아"
+    },
+    {
+      "eng": "Arizona",
+      "kor": "아리조나"
+    },
+    {
+      "eng": "Arkanoid",
+      "kor": "알카노이드"
+    },
+    {
+      "eng": "Ascension",
+      "kor": "어센션"
+    },
+    {
+      "eng": "Ashrigo",
+      "kor": "아쉬리고"
+    },
+    {
+      "eng": "Aztec",
+      "kor": "아즈텍"
+    },
+    {
+      "eng": "Azure Garden",
+      "kor": "아재가든"
+    },
+    {
+      "eng": "Back Street",
+      "kor": "백 스트리트"
+    },
+    {
+      "eng": "Baekmagoji",
+      "kor": "백마고지"
+    },
+    {
+      "eng": "Battle Royale",
+      "kor": "배틀로얄"
+    },
+    {
+      "eng": "Beltway",
+      "kor": "벨트웨이"
+    },
+    {
+      "eng": "Benzene",
+      "kor": "벤젠"
+    },
+    {
+      "eng": "Bifrost",
+      "kor": "비프로스트"
+    },
+    {
+      "eng": "Blitz X",
+      "kor": "블리츠X"
+    },
+    {
+      "eng": "Blitz Y",
+      "kor": "블리츠Y"
+    },
+    {
+      "eng": "Blockchain",
+      "kor": "블록체인"
+    },
+    {
+      "eng": "Blood Bath",
+      "kor": "블러드배스"
+    },
+    {
+      "eng": "Blue Storm",
+      "kor": "블루스톰"
+    },
+    {
+      "eng": "Butter",
+      "kor": "버터"
+    },
+    {
+      "eng": "Byzantium",
+      "kor": "비잔티움"
+    },
+    {
+      "eng": "Catalyst",
+      "kor": "카탈리스트"
+    },
+    {
+      "eng": "Champion",
+      "kor": "챔피언"
+    },
+    {
+      "eng": "Charity",
+      "kor": "채러티"
+    },
+    {
+      "eng": "Circuit Breaker",
+      "kor": "서킷브레이커"
+    },
+    {
+      "eng": "Citadel",
+      "kor": "시타델"
+    },
+    {
+      "eng": "Coldwind Ridge",
+      "kor": "칼바람능선"
+    },
+    {
+      "eng": "Colosseum",
+      "kor": "콜로세움"
+    },
+    {
+      "eng": "Crazy Critters",
+      "kor": "크레이지크리터스"
+    },
+    {
+      "eng": "Dante's Peak",
+      "kor": "단테스피크"
+    },
+    {
+      "eng": "Dark Origin",
+      "kor": "다크 오리진"
+    },
+    {
+      "eng": "Deja Vu",
+      "kor": "데자 뷰"
+    },
+    {
+      "eng": "Desperado",
+      "kor": "데스페라도"
+    },
+    {
+      "eng": "Destination",
+      "kor": "데스티네이션"
+    },
+    {
+      "eng": "Detonation",
+      "kor": "데토네이션"
+    },
+    {
+      "eng": "Dominator",
+      "kor": "도미네이터"
+    },
+    {
+      "eng": "Dreamliner",
+      "kor": "비상 드림라이너"
+    },
+    {
+      "eng": "Dreamscape",
+      "kor": "몽환"
+    },
+    {
+      "eng": "Eclipse",
+      "kor": "이클립스"
+    },
+    {
+      "eng": "Eddy",
+      "kor": "에디"
+    },
+    {
+      "eng": "Electric Circuit",
+      "kor": "일렉트릭서킷"
+    },
+    {
+      "eng": "Empire of the Sun",
+      "kor": "태양의제국"
+    },
+    {
+      "eng": "Enter the Dragon",
+      "kor": "엔터더드래곤"
+    },
+    {
+      "eng": "Escalade",
+      "kor": "에스컬레이드"
+    },
+    {
+      "eng": "Eye of the Storm",
+      "kor": "태풍의눈"
+    },
+    {
+      "eng": "FallOut",
+      "kor": "폴아웃"
+    },
+    {
+      "eng": "Fastest Infinite",
+      "kor": "빠른무한"
+    },
+    {
+      "eng": "Fighting Spirit",
+      "kor": "투혼"
+    },
+    {
+      "eng": "Flower of Snow",
+      "kor": "눈의 꽃"
+    },
+    {
+      "eng": "Forest of Evil Spirits",
+      "kor": "악령의 숲"
+    },
+    {
+      "eng": "Forte",
+      "kor": "포르테"
+    },
+    {
+      "eng": "Frost",
+      "kor": "프로스트"
+    },
+    {
+      "eng": "Gaema Gowon",
+      "kor": "개마고원"
+    },
+    {
+      "eng": "Geometry",
+      "kor": "지오메트리"
+    },
+    {
+      "eng": "Gladiator",
+      "kor": "글래디에이터"
+    },
+    {
+      "eng": "Good Night",
+      "kor": "굿나잇"
+    },
+    {
+      "eng": "Grand Line",
+      "kor": "그랜드라인"
+    },
+    {
+      "eng": "Ground Zero",
+      "kor": "그라운드제로"
+    },
+    {
+      "eng": "Hall of Valhalla",
+      "kor": "홀오브발할라"
+    },
+    {
+      "eng": "Heartbreak Ridge",
+      "kor": "단장의능선"
+    },
+    {
+      "eng": "Hellbound",
+      "kor": "헬바운드"
+    },
+    {
+      "eng": "Hellquines",
+      "kor": "헬퀴네스"
+    },
+    {
+      "eng": "Hidden Track",
+      "kor": "히든트랙"
+    },
+    {
+      "eng": "Hitchhiker",
+      "kor": "히치하이커"
+    },
+    {
+      "eng": "Holy World",
+      "kor": "홀리월드"
+    },
+    {
+      "eng": "Horizon Lunar Base",
+      "kor": "호라이즌달기지"
+    },
+    {
+      "eng": "Hunter",
+      "kor": "헌터"
+    },
+    {
+      "eng": "Hwarangdo",
+      "kor": "화랑도"
+    },
+    {
+      "eng": "Icarus",
+      "kor": "이카루스"
+    },
+    {
+      "eng": "Illusion",
+      "kor": "일루젼"
+    },
+    {
+      "eng": "Incubus",
+      "kor": "인큐버스"
+    },
+    {
+      "eng": "Infinite Map",
+      "kor": "무한맵"
+    },
+    {
+      "eng": "Inner Coven",
+      "kor": "이너코븐"
+    },
+    {
+      "eng": "Inner Sanctum",
+      "kor": "중원"
+    },
+    {
+      "eng": "Invader",
+      "kor": "인베이더"
+    },
+    {
+      "eng": "Iron Curtain",
+      "kor": "철의장막"
+    },
+    {
+      "eng": "Jade",
+      "kor": "제이드"
+    },
+    {
+      "eng": "Jim Raynor's Memory",
+      "kor": "짐레이너스메모리"
+    },
+    {
+      "eng": "Judgment Day",
+      "kor": "심판의날"
+    },
+    {
+      "eng": "Jungle Book",
+      "kor": "정글 북"
+    },
+    {
+      "eng": "Jungle Story 2",
+      "kor": "정글 스토리 2"
+    },
+    {
+      "eng": "Jungle Story",
+      "kor": "정글스토리"
+    },
+    {
+      "eng": "Katrina",
+      "kor": "카트리나"
+    },
+    {
+      "eng": "Kick Back",
+      "kor": "킥 백"
+    },
+    {
+      "eng": "La Campanella",
+      "kor": "라 캄파넬라"
+    },
+    {
+      "eng": "La Mancha",
+      "kor": "라만차"
+    },
+    {
+      "eng": "Largo",
+      "kor": "라르고"
+    },
+    {
+      "eng": "Lemon",
+      "kor": "레몬"
+    },
+    {
+      "eng": "Longinus",
+      "kor": "롱기누스"
+    },
+    {
+      "eng": "Lost Temple",
+      "kor": "로스트템플"
+    },
+    {
+      "eng": "Luna",
+      "kor": "루나"
+    },
+    {
+      "eng": "Man's Story",
+      "kor": "남자이야기"
+    },
+    {
+      "eng": "Match Point",
+      "kor": "매치포인트"
+    },
+    {
+      "eng": "Medusa",
+      "kor": "메두사"
+    },
+    {
+      "eng": "Mercury",
+      "kor": "머큐리"
+    },
+    {
+      "eng": "Metaverse",
+      "kor": "메타버스"
+    },
+    {
+      "eng": "Minstrel",
+      "kor": "민스트렐"
+    },
+    {
+      "eng": "Monkey Land",
+      "kor": "몽키랜드"
+    },
+    {
+      "eng": "Monopoly",
+      "kor": "모노폴리"
+    },
+    {
+      "eng": "Monte Cristo",
+      "kor": "몬테크리스토"
+    },
+    {
+      "eng": "Monty Hall",
+      "kor": "몬티홀"
+    },
+    {
+      "eng": "Multiverse",
+      "kor": "멀티버스"
+    },
+    {
+      "eng": "Nemesis",
+      "kor": "네메시스"
+    },
+    {
+      "eng": "Neo Arkanoid",
+      "kor": "네오 알카노이드"
+    },
+    {
+      "eng": "Neo Aztec",
+      "kor": "네오 아즈텍"
+    },
+    {
+      "eng": "Neo Beltway",
+      "kor": "네오 벨트웨이"
+    },
+    {
+      "eng": "Neo Chain Reaction",
+      "kor": "네오 체인 리액션"
+    },
+    {
+      "eng": "Neo Dark Origin",
+      "kor": "네오 다크 오리진"
+    },
+    {
+      "eng": "Neo Forbidden Zone",
+      "kor": "네오 포비든 존"
+    },
+    {
+      "eng": "Neo Forte",
+      "kor": "네오 포르테"
+    },
+    {
+      "eng": "Neo Guillotine",
+      "kor": "네오 기요틴"
+    },
+    {
+      "eng": "Neo Hall of Valhalla",
+      "kor": "네오 홀 오브 발할라"
+    },
+    {
+      "eng": "Neo Jungle Story",
+      "kor": "네오 정글 스토리"
+    },
+    {
+      "eng": "Neo Legacy of Char",
+      "kor": "네오 레가시오브차"
+    },
+    {
+      "eng": "Neo Lost Temple",
+      "kor": "네오 로스트템플"
+    },
+    {
+      "eng": "Neo Luna",
+      "kor": "네오 루나"
+    },
+    {
+      "eng": "Neo Medusa",
+      "kor": "네오 메두사"
+    },
+    {
+      "eng": "Neo Requiem",
+      "kor": "네오 레퀴엠"
+    },
+    {
+      "eng": "Neo Sylphid",
+      "kor": "네오 실피드"
+    },
+    {
+      "eng": "Neuron",
+      "kor": "뉴런"
+    },
+    {
+      "eng": "New Choopoongryung",
+      "kor": "신 추풍령"
+    },
+    {
+      "eng": "New Empire of the Sun",
+      "kor": "신 태양의 제국"
+    },
+    {
+      "eng": "New Sniper Ridge",
+      "kor": "신 저격능선"
+    },
+    {
+      "eng": "Non-Aggression Pact",
+      "kor": "불가침조약"
+    },
+    {
+      "eng": "Nostalgia",
+      "kor": "노스텔지아"
+    },
+    {
+      "eng": "Odyssey",
+      "kor": "오디세이"
+    },
+    {
+      "eng": "Optimizer",
+      "kor": "옵티마이저"
+    },
+    {
+      "eng": "Othello",
+      "kor": "오델로"
+    },
+    {
+      "eng": "Outsider",
+      "kor": "아웃사이더"
+    },
+    {
+      "eng": "Overwatch",
+      "kor": "오버워치"
+    },
+    {
+      "eng": "Palindrome",
+      "kor": "팔진도"
+    },
+    {
+      "eng": "Pantheon",
+      "kor": "판테온"
+    },
+    {
+      "eng": "Paradox",
+      "kor": "패러독스"
+    },
+    {
+      "eng": "Pathfinder",
+      "kor": "패스파인더"
+    },
+    {
+      "eng": "Peaks of Baekdu",
+      "kor": "백두대간"
+    },
+    {
+      "eng": "Pelennor",
+      "kor": "펠레노르"
+    },
+    {
+      "eng": "Persona",
+      "kor": "페르소나"
+    },
+    {
+      "eng": "Polaris Rhapsody",
+      "kor": "폴라리스랩소디"
+    },
+    {
+      "eng": "Polypoid",
+      "kor": "폴리포이드"
+    },
+    {
+      "eng": "Python",
+      "kor": "파이썬"
+    },
+    {
+      "eng": "R-Point",
+      "kor": "알포인트"
+    },
+    {
+      "eng": "Radeon",
+      "kor": "라데온"
+    },
+    {
+      "eng": "Ragnarok",
+      "kor": "라그나로크"
+    },
+    {
+      "eng": "Raid Assault",
+      "kor": "레이드 어썰트"
+    },
+    {
+      "eng": "Random Forest",
+      "kor": "랜덤 포레스트"
+    },
+    {
+      "eng": "Red Eagle",
+      "kor": "레드 이글"
+    },
+    {
+      "eng": "Requiem",
+      "kor": "레퀴엠"
+    },
+    {
+      "eng": "Retro",
+      "kor": "레트로"
+    },
+    {
+      "eng": "Return of the King",
+      "kor": "왕의귀환"
+    },
+    {
+      "eng": "Revolver",
+      "kor": "리볼버"
+    },
+    {
+      "eng": "Ride of Valkyries",
+      "kor": "라이드오브발키리"
+    },
+    {
+      "eng": "Ridge of Blood",
+      "kor": "피의능선"
+    },
+    {
+      "eng": "Ringing Bloom",
+      "kor": "링잉블룸"
+    },
+    {
+      "eng": "Rivers Temple",
+      "kor": "리버스템플"
+    },
+    {
+      "eng": "Rush Hour",
+      "kor": "러시아워"
+    },
+    {
+      "eng": "Salvation",
+      "kor": "구원"
+    },
+    {
+      "eng": "Sand Storm",
+      "kor": "샌드 스톰"
+    },
+    {
+      "eng": "Shakuras Temple",
+      "kor": "샤쿠러스템플"
+    },
+    {
+      "eng": "Shakuras Temple(2)",
+      "kor": "샤쿠라스템플"
+    },
+    {
+      "eng": "Shooting Break",
+      "kor": "슈팅브레이크"
+    },
+    {
+      "eng": "Sin Peaks of Baekdu",
+      "kor": "신 백두대간"
+    },
+    {
+      "eng": "Sky Bridge",
+      "kor": "스카이브릿지"
+    },
+    {
+      "eng": "Sniper Ridge",
+      "kor": "저격능선"
+    },
+    {
+      "eng": "Snowbound",
+      "kor": "스노우바운드"
+    },
+    {
+      "eng": "Space Madness",
+      "kor": "스페이스 매드니스"
+    },
+    {
+      "eng": "Space Odyssey",
+      "kor": "스페이스 오디세이"
+    },
+    {
+      "eng": "Sparkle",
+      "kor": "스파클"
+    },
+    {
+      "eng": "Sylphid",
+      "kor": "실피드"
+    },
+    {
+      "eng": "Tau Cross",
+      "kor": "타우크로스"
+    },
+    {
+      "eng": "Tears of the Goddess",
+      "kor": "여신의 눈물"
+    },
+    {
+      "eng": "Tempest",
+      "kor": "템페스트"
+    },
+    {
+      "eng": "The Blessing",
+      "kor": "더 블레싱"
+    },
+    {
+      "eng": "Third World",
+      "kor": "제 3세계"
+    },
+    {
+      "eng": "Transistor",
+      "kor": "트랜지스터"
+    },
+    {
+      "eng": "Triathlon",
+      "kor": "트라이애슬론"
+    },
+    {
+      "eng": "Troy",
+      "kor": "트로이"
+    },
+    {
+      "eng": "Ultimate Stream",
+      "kor": "얼티메이트스트림"
+    },
+    {
+      "eng": "Valley of Wind",
+      "kor": "바람의 계곡"
+    },
+    {
+      "eng": "Vermeer",
+      "kor": "버미어"
+    },
+    {
+      "eng": "Wavelet",
+      "kor": "Wavelet"
+    },
+    {
+      "eng": "Whiteout",
+      "kor": "화이트아웃"
+    },
+    {
+      "eng": "Winter Conquest",
+      "kor": "윈터 콘퀘스트"
+    },
+    {
+      "eng": "Winter Solstice",
+      "kor": "윈터 솔스티스"
+    }
+  ]
+}
