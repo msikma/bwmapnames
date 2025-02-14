@@ -1,13 +1,9 @@
 {
-  "lastUpdated": "2024-12-16T11:35:00.079Z",
+  "lastUpdated": "2025-02-14T16:57:33.249Z",
   "maps": [
     {
       "eng": "76",
       "kor": "76"
-    },
-    {
-      "eng": "815",
-      "kor": "815"
     },
     {
       "eng": "ASL 2.0",
@@ -764,6 +760,26 @@
     {
       "eng": "Winter Solstice",
       "kor": "윈터 솔스티스"
+    },
+    {
+      "eng": "Polestar",
+      "kor": "폴스타"
+    },
+    {
+      "eng": "Metropolis",
+      "kor": "메트로폴리스"
+    },
+    {
+      "eng": "Death Valley",
+      "kor": "데스밸리"
+    },
+    {
+      "eng": "815",
+      "kor": "815"
+    },
+    {
+      "eng": "Anonymous",
+      "kor": "어나니머스"
     }
   ]
 }
