@@ -8,11 +8,13 @@ Contains map names (English and Korean) for competitive Brood War maps.
 
 New map names are retrieved from [EloBoard](https://eloboard.com/) and [Liquipedia](https://liquipedia.net/starcraft).
 
-The [bwstats](https://github.com/msikma/bwstats) tool can be used to fetch updates:
+Run the `update` script to prepare an update in the [src/data.json](/src/data.json) file:
 
 ```bash
-bwstats.js --map-names
+npm run update
 ```
+
+This requires [bwstats](https://github.com/msikma/bwstats) to be available on the path.
 
 ## License
 
