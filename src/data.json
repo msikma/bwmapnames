@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-02-14T16:57:33.249Z",
+  "lastUpdated": "2025-02-22T19:03:52.176Z",
   "maps": [
     {
       "eng": "76",
@@ -762,7 +762,7 @@
       "kor": "윈터 솔스티스"
     },
     {
-      "eng": "Polestar",
+      "eng": "Pole Star",
       "kor": "폴스타"
     },
     {
@@ -780,6 +780,10 @@
     {
       "eng": "Anonymous",
       "kor": "어나니머스"
+    },
+    {
+      "eng": "Tears of the Moon",
+      "kor": "달의 눈물"
     }
   ]
 }
