@@ -6,6 +6,7 @@ import {fileURLToPath} from 'node:url'
 import {promises as fs} from 'node:fs'
 import {spawn} from 'node:child_process'
 import * as process from 'node:process'
+import type {BwMapNamesData, BwMapName} from '../src/types.ts'
 
 interface CommandResult {
   stdout: string
@@ -55,6 +56,34 @@ function runCommand(command: string[]): Promise<CommandResult> {
 }
 
 /**
+ * Merges new name data with our existing data.json content.
+ */
+function mergeWithExistingData(newData: BwMapNamesData, oldData: BwMapNamesData): BwMapNamesData {
+  const maps = new Map()
+  for (const mapItem of oldData.maps) {
+    maps.set(mapItem.kor, {eng: mapItem.eng, kor: mapItem.kor})
+  }
+  for (const mapItem of newData.maps) {
+    if (maps.has(mapItem.kor)) {
+      continue
+    }
+    maps.set(mapItem.kor, {eng: mapItem.eng, kor: mapItem.kor})
+  }
+  return {
+    lastUpdated: oldData.lastUpdated,
+    maps: [...maps.values()] as BwMapName[],
+  }
+}
+
+/**
+ * Returns the current map  name data.
+ */
+async function getCurrentMapData(dataPath: string) {
+  const data = await fs.readFile(dataPath, 'utf8')
+  return JSON.parse(data) as BwMapNamesData
+}
+
+/**
  * Utility script for updating the map names.
  * 
  * Uses @dada78641/bwstats to fetch new map names.
@@ -66,7 +95,10 @@ async function main() {
     // Get new map names and write a new JSON file.
     // New map names will be in Korean only and need to be manually translated into English.
     const res = await runCommand(['bwstats.js', '--map-names'])
-    await fs.writeFile(dataPath, res.stdout, 'utf8')
+    const newData = JSON.parse(res.stdout) as BwMapNamesData
+    const oldData = await getCurrentMapData(dataPath)
+    const mergedData = mergeWithExistingData(newData, oldData)
+    await fs.writeFile(dataPath, `${JSON.stringify(mergedData, null, 2).trim()}\n`, 'utf8')
   }
   if (action === 'sort') {
     // Sort map names in the JSON file.
